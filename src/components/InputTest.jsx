@@ -29,7 +29,7 @@ function InputTest() {
     }
 
     return (
-        <div className="min-h-screen flex items-center justify-center bg-zinc-900">
+        <div className="min-h-screen flex items-center justify-center ">
             <div className="bg-zinc-800 p-8 rounded-2xl shadow-xl w-80">
                 <form onSubmit={handleSubmit} className="flex flex-col gap-4">
 
